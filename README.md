@@ -4,7 +4,7 @@ Projeto desenvolvido com foco em prática de HTML e CSS, criando uma landing pag
 
 ---
 
-## 📸 Preview
+## 📸 Visualização
 
 <img width="1482" height="720" alt="image" src="https://github.com/user-attachments/assets/2df292aa-5b96-47b8-94b1-5adf5c95a2a1" />
 <img width="1466" height="720" alt="image" src="https://github.com/user-attachments/assets/fdb7dfcc-1dfe-4351-a703-eda5bd8023c4" />
@@ -18,7 +18,6 @@ Projeto desenvolvido com foco em prática de HTML e CSS, criando uma landing pag
 - HTML5
 - CSS3
 - Flexbox
-- 
 ---
 
 ## 🎯 Objetivo do Projeto
