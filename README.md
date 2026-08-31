@@ -2,6 +2,8 @@
 
 Projeto desenvolvido com foco em prática de HTML e CSS, criando uma landing page moderna para uma loja de perfumes.
 
+[🌐 Ver o projeto online](https://karenoliveirajp-stack.github.io/Projeto-Aura-Beauty-/)
+
 ---
 
 ## 📸 Visualização
